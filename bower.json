@@ -1,0 +1,29 @@
+{
+  "name": "react-rich-textarea",
+  "version": "0.0.0",
+  "description": "Rich Textarea",
+  "main": "dist/react-rich-textarea.min.js",
+  "homepage": "https://github.com/fru/react-rich-textarea",
+  "authors": [
+    "Florian Rüberg"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
